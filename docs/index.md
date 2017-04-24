@@ -3,7 +3,7 @@ layout: post
 title: Blogging Like a Hacker
 ---
 
-HELLO! 
+HELLO ALEX!
 
 <!-- Show last 5 posts here -->
 {% for post in paginator.posts %}
